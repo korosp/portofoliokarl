@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+  <rect width="100%" height="100%" fill="#f8fafc" rx="24"/>
+  <g fill="#0f172a" font-family="Arial, Helvetica, sans-serif">
+    <text x="40" y="80" font-size="28" font-weight="700">Aplikasi Web — PHP Dasar</text>
+    <rect x="40" y="120" width="1120" height="430" rx="20" fill="#e6eef8"/>
+    <text x="60" y="160" font-size="20" fill="#334155">Preview: putih (placeholder)</text>
+  </g>
+</svg>
